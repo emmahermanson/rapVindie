@@ -1,0 +1,4259 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/23881",
+ "description": {
+  "plain": "The Head and the Heart formed in 2009, when Johnson, raised in Orange County, Calif., hit it off with singer-songwriter Jonathan Russell at an open mic at the Ballard Irish bar Conor Byrne. Russell and drummer Tyler Williams had come from Richmond, Va. Seattleite Chris Zasche was recruited to play bass; Thielen, from Lake Forest Park, violin; and Californian Kenny Hensley, piano.\n\nThe band\u2019s first album was picked up (and reworked) by Sub Pop, which propelled the band\u2019s second one, \u201cLet\u2019s Be Still\u201d (2013) into the Billboard albums Top 10. The two albums have sold 650,000 copies combined."
+ },
+ "facebook_name": "theheadandtheheart",
+ "followers_count": 56,
+ "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+ "id": 23881,
+ "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+ "instagram_name": "theheadandtheheart",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "The Head And The Heart",
+ "translation_artist": false,
+ "twitter_name": "headandtheheart",
+ "url": "https://genius.com/artists/The-head-and-the-heart",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 231,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5933184,
+  "annotator_login": "Matidelamadrid",
+  "api_path": "/referents/6944531",
+  "classification": "unreviewed",
+  "fragment": "The Head And The Heart",
+  "id": 6944531,
+  "is_description": true,
+  "path": "/6944531/The-head-and-the-heart/The-head-and-the-heart",
+  "range": {
+   "content": "The Head And The Heart"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6944531/The-head-and-the-heart/The-head-and-the-heart",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/23881",
+   "context": null,
+   "id": 23881,
+   "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+   "link_title": "The Head And The Heart",
+   "title": "The Head And The Heart",
+   "type": "Artist",
+   "url": "https://genius.com/artists/The-head-and-the-heart"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6944531",
+    "body": {
+     "plain": "The Head and the Heart formed in 2009, when Johnson, raised in Orange County, Calif., hit it off with singer-songwriter Jonathan Russell at an open mic at the Ballard Irish bar Conor Byrne. Russell and drummer Tyler Williams had come from Richmond, Va. Seattleite Chris Zasche was recruited to play bass; Thielen, from Lake Forest Park, violin; and Californian Kenny Hensley, piano.\n\nThe band\u2019s first album was picked up (and reworked) by Sub Pop, which propelled the band\u2019s second one, \u201cLet\u2019s Be Still\u201d (2013) into the Billboard albums Top 10. The two albums have sold 650,000 copies combined."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6944531,
+    "pinned": false,
+    "share_url": "https://genius.com/6944531",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6944531/The-head-and-the-heart/The-head-and-the-heart",
+    "verified": false,
+    "votes_total": 7,
+    "current_user_metadata": {
+     "permissions": [
+      "create_comment"
+     ],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5933184",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/0028450615c7481962bd374be308834a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/0028450615c7481962bd374be308834a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/0028450615c7481962bd374be308834a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/0028450615c7481962bd374be308834a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8bde9qzmdc5",
+       "human_readable_role_for_display": null,
+       "id": 5933184,
+       "iq": 135,
+       "login": "Matidelamadrid",
+       "name": "Matidelamadrid",
+       "role_for_display": null,
+       "url": "https://genius.com/Matidelamadrid",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/9143714",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/c89186c0a6cb238a22561a1f18e7b0df",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/c89186c0a6cb238a22561a1f18e7b0df",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/c89186c0a6cb238a22561a1f18e7b0df",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/c89186c0a6cb238a22561a1f18e7b0df",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 9143714,
+  "iq": 231,
+  "login": "TheHeadandTheHeart",
+  "name": "The Head And The Heart",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/TheHeadandTheHeart",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/331175",
+   "apple_music_id": "413320606",
+   "apple_music_player_url": "https://genius.com/songs/331175/apple_music_player",
+   "description": {
+    "plain": "\u201cRivers and Roads\u201d is a song about friendship and separation. The speaker misses his friends who have moved away. While others may tell the speaker to move on, the speaker will do whatever it takes to see their friends again\u2014even crossing rivers and roads.\n\nThe song is one of The Head and the Heart\u2019s most popular, ranking as their most viewed song on Genius and one of their most popular on Spotify. It is additionally used throughout pop culture, appearing in an episode of New Girl and being used as a farewell song at sleepaway camps like Camp Kanata in Wake Forest, North Carolina."
+   },
+   "embed_content": "<div id='rg_embed_link_331175' class='rg_embed_link' data-song-id='331175'>Read <a href='https://genius.com/The-head-and-the-heart-rivers-and-roads-lyrics'>\u201cRivers and Roads\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/331175/embed.js'></script>",
+   "featured_video": false,
+   "full_title": "Rivers and Roads by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 331175,
+   "lyrics_owner_id": 172611,
+   "lyrics_placeholder_reason": null,
+   "lyrics_state": "complete",
+   "path": "/The-head-and-the-heart-rivers-and-roads-lyrics",
+   "pyongs_count": 28,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 27,
+    "iq_earners": 27,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 109937
+   },
+   "title": "Rivers and Roads",
+   "title_with_featured": "Rivers and Roads",
+   "url": "https://genius.com/The-head-and-the-heart-rivers-and-roads-lyrics",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals By",
+     "artists": [
+      {
+       "api_path": "/artists/27479",
+       "header_image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "id": 27479,
+       "image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "T-Minus",
+       "url": "https://genius.com/artists/T-minus"
+      },
+      {
+       "api_path": "/artists/405487",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405487,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kenny Hensley",
+       "url": "https://genius.com/artists/Kenny-hensley"
+      },
+      {
+       "api_path": "/artists/405488",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405488,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Zasche",
+       "url": "https://genius.com/artists/Chris-zasche"
+      },
+      {
+       "api_path": "/artists/1010775",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 1010775,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jonathan Russell",
+       "url": "https://genius.com/artists/Jonathan-russell"
+      },
+      {
+       "api_path": "/artists/405484",
+       "header_image_url": "https://images.genius.com/cc3a77c15726a29b25d06a4eb5db05a6.700x700x1.png",
+       "id": 405484,
+       "image_url": "https://images.genius.com/93dbfc41ffe339e4c694f83b4c0afff3.120x120x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josiah Johnson",
+       "url": "https://genius.com/artists/Josiah-johnson"
+      },
+      {
+       "api_path": "/artists/405486",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405486,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Charity Thielen",
+       "url": "https://genius.com/artists/Charity-thielen"
+      }
+     ]
+    },
+    {
+     "label": "Percussion By",
+     "artists": [
+      {
+       "api_path": "/artists/27479",
+       "header_image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "id": 27479,
+       "image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "T-Minus",
+       "url": "https://genius.com/artists/T-minus"
+      },
+      {
+       "api_path": "/artists/1010775",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 1010775,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jonathan Russell",
+       "url": "https://genius.com/artists/Jonathan-russell"
+      },
+      {
+       "api_path": "/artists/405484",
+       "header_image_url": "https://images.genius.com/cc3a77c15726a29b25d06a4eb5db05a6.700x700x1.png",
+       "id": 405484,
+       "image_url": "https://images.genius.com/93dbfc41ffe339e4c694f83b4c0afff3.120x120x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josiah Johnson",
+       "url": "https://genius.com/artists/Josiah-johnson"
+      },
+      {
+       "api_path": "/artists/405486",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405486,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Charity Thielen",
+       "url": "https://genius.com/artists/Charity-thielen"
+      }
+     ]
+    },
+    {
+     "label": "Drums By",
+     "artists": [
+      {
+       "api_path": "/artists/27479",
+       "header_image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "id": 27479,
+       "image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "T-Minus",
+       "url": "https://genius.com/artists/T-minus"
+      }
+     ]
+    },
+    {
+     "label": "Piano By",
+     "artists": [
+      {
+       "api_path": "/artists/405487",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405487,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kenny Hensley",
+       "url": "https://genius.com/artists/Kenny-hensley"
+      }
+     ]
+    },
+    {
+     "label": "Bass By",
+     "artists": [
+      {
+       "api_path": "/artists/405488",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405488,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Zasche",
+       "url": "https://genius.com/artists/Chris-zasche"
+      }
+     ]
+    },
+    {
+     "label": "Guitar By",
+     "artists": [
+      {
+       "api_path": "/artists/1010775",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 1010775,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jonathan Russell",
+       "url": "https://genius.com/artists/Jonathan-russell"
+      },
+      {
+       "api_path": "/artists/405484",
+       "header_image_url": "https://images.genius.com/cc3a77c15726a29b25d06a4eb5db05a6.700x700x1.png",
+       "id": 405484,
+       "image_url": "https://images.genius.com/93dbfc41ffe339e4c694f83b4c0afff3.120x120x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josiah Johnson",
+       "url": "https://genius.com/artists/Josiah-johnson"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1157734,
+    "annotator_login": "Imnotcompetitive",
+    "api_path": "/referents/3830824",
+    "classification": "accepted",
+    "fragment": "Rivers and Roads",
+    "id": 3830824,
+    "is_description": true,
+    "path": "/3830824/The-head-and-the-heart-rivers-and-roads/Rivers-and-roads",
+    "range": {
+     "content": "Rivers and Roads"
+    },
+    "song_id": 331175,
+    "url": "https://genius.com/3830824/The-head-and-the-heart-rivers-and-roads/Rivers-and-roads",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/331175",
+     "client_timestamps": {
+      "updated_by_human_at": 1572316306,
+      "lyrics_updated_at": 1592348381
+     },
+     "context": "The Head And The Heart",
+     "id": 331175,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Rivers and Roads by\u00a0The\u00a0Head And The Heart",
+     "title": "Rivers and Roads",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-rivers-and-roads-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3830824",
+      "body": {
+       "plain": "\u201cRivers and Roads\u201d is a song about friendship and separation. The speaker misses his friends who have moved away. While others may tell the speaker to move on, the speaker will do whatever it takes to see their friends again\u2014even crossing rivers and roads.\n\nThe song is one of The Head and the Heart\u2019s most popular, ranking as their most viewed song on Genius and one of their most popular on Spotify. It is additionally used throughout pop culture, appearing in an episode of New Girl and being used as a farewell song at sleepaway camps like Camp Kanata in Wake Forest, North Carolina."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3830824,
+      "pinned": false,
+      "share_url": "https://genius.com/3830824",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3830824/The-head-and-the-heart-rivers-and-roads/Rivers-and-roads",
+      "verified": false,
+      "votes_total": 22,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1448826",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1448826,
+         "iq": 175455,
+         "login": "babuc",
+         "name": "Babu Chatterjee",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/babuc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1157734",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/a6c4193a5b1a2512348b5a1be4a3f0e4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/a6c4193a5b1a2512348b5a1be4a3f0e4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/a6c4193a5b1a2512348b5a1be4a3f0e4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/a6c4193a5b1a2512348b5a1be4a3f0e4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/a6c4193a5b1a2512348b5a1be4a3f0e4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1157734,
+         "iq": 3244,
+         "login": "Imnotcompetitive",
+         "name": "Imnotcompetitive",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Imnotcompetitive",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:4Q6Kuze3wNMQRjamyBjHUR",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=AclhwQKlgfw"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/27479",
+     "header_image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+     "id": 27479,
+     "image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T-Minus",
+     "url": "https://genius.com/artists/T-minus"
+    },
+    {
+     "api_path": "/artists/405487",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 405487,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kenny Hensley",
+     "url": "https://genius.com/artists/Kenny-hensley"
+    },
+    {
+     "api_path": "/artists/405484",
+     "header_image_url": "https://images.genius.com/cc3a77c15726a29b25d06a4eb5db05a6.700x700x1.png",
+     "id": 405484,
+     "image_url": "https://images.genius.com/93dbfc41ffe339e4c694f83b4c0afff3.120x120x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josiah Johnson",
+     "url": "https://genius.com/artists/Josiah-johnson"
+    },
+    {
+     "api_path": "/artists/1010775",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 1010775,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonathan Russell",
+     "url": "https://genius.com/artists/Jonathan-russell"
+    },
+    {
+     "api_path": "/artists/405488",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 405488,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Zasche",
+     "url": "https://genius.com/artists/Chris-zasche"
+    },
+    {
+     "api_path": "/artists/405486",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 405486,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charity Thielen",
+     "url": "https://genius.com/artists/Charity-thielen"
+    }
+   ],
+   "lyrics": "[Verse 1]\nA year from now we'll all be gone\nAll our friends will move away\nAnd they're goin' to better places\nBut our friends will be gone away\nNothin' is as it has been\nAnd I miss your face like hell\nAnd I guess it's just as well\nBut I miss your face like hell\n\n[Interlude]\nOhhh uh oh uhhhh oh\nOhhh uh oh uhhhh oh\n\n[Verse 2]\nBeen talkin' 'bout the way things change\nAnd my family lives in a different state\nIf you don't know what to make of this\nThen we will not relate\nSo if you don't know what to make of this\nThen we will not relate\n\n[Interlude]\nOhhh uh oh uhhhh oh\nOhhh uh oh uhhhh oh\nOhhh uh oh uhhhh oh\nOhhh uh oh uhhhh oh\n\n[Chorus]\nRivers and roads\nRivers and roads\nRivers 'til I reach you\n\nRivers and roads\nOh rivers and roads\nOh rivers 'til I reach you\n\nRivers and roads\nRivers and roads\nRivers 'til I reach you\n\nRivers and roads\nRivers and roads\nRivers 'til I reach you\n\nRivers and roads\nRivers and roads\nRivers 'til I reach you\n\nRivers and roads\nRivers and roads\nRivers 'til I reach you\n\nRivers and roads\nRivers and roads\nRivers 'til I reach you\n\nRivers and roads\nRivers and roads\nRivers 'til I reach you\n\nRivers and roads\nRivers and roads\nRivers 'til I reach you"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 2,
+   "api_path": "/songs/660203",
+   "full_title": "Cats and Dogs by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 660203,
+   "instrumental": false,
+   "lyrics_owner_id": 1414767,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1423187310,
+   "path": "/The-head-and-the-heart-cats-and-dogs-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Cats and Dogs",
+   "title_with_featured": "Cats and Dogs",
+   "updated_by_human_at": 1517191276,
+   "url": "https://genius.com/The-head-and-the-heart-cats-and-dogs-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320597",
+   "apple_music_player_url": "https://genius.com/songs/660203/apple_music_player",
+   "description": {
+    "plain": "Overall, this song is describing a man\u2019s loneliness, possibly after a break up or divorce of some kind. It speaks about how we often use things such as pets (Cats and Dogs) to try and quench loneliness, though they never really last."
+   },
+   "embed_content": "<div id='rg_embed_link_660203' class='rg_embed_link' data-song-id='660203'>Read <a href='https://genius.com/The-head-and-the-heart-cats-and-dogs-lyrics'>\u201cCats and Dogs\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/660203/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1414767,
+    "annotator_login": "ClarkDarrow",
+    "api_path": "/referents/4658951",
+    "classification": "accepted",
+    "fragment": "Cats and Dogs",
+    "id": 4658951,
+    "is_description": true,
+    "path": "/4658951/The-head-and-the-heart-cats-and-dogs/Cats-and-dogs",
+    "range": {
+     "content": "Cats and Dogs"
+    },
+    "song_id": 660203,
+    "url": "https://genius.com/4658951/The-head-and-the-heart-cats-and-dogs/Cats-and-dogs",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/660203",
+     "client_timestamps": {
+      "updated_by_human_at": 1517191276,
+      "lyrics_updated_at": 1423187310
+     },
+     "context": "The Head And The Heart",
+     "id": 660203,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Cats and Dogs by\u00a0The\u00a0Head And The Heart",
+     "title": "Cats and Dogs",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-cats-and-dogs-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4658951",
+      "body": {
+       "plain": "Overall, this song is describing a man\u2019s loneliness, possibly after a break up or divorce of some kind. It speaks about how we often use things such as pets (Cats and Dogs) to try and quench loneliness, though they never really last."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4658951,
+      "pinned": false,
+      "share_url": "https://genius.com/4658951",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4658951/The-head-and-the-heart-cats-and-dogs/Cats-and-dogs",
+      "verified": false,
+      "votes_total": 6,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1414767",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/cbc81e2331bdc5d95eaa23d52622af56",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/cbc81e2331bdc5d95eaa23d52622af56",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/cbc81e2331bdc5d95eaa23d52622af56",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/cbc81e2331bdc5d95eaa23d52622af56",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/cbc81e2331bdc5d95eaa23d52622af56",
+         "human_readable_role_for_display": null,
+         "id": 1414767,
+         "iq": 270,
+         "login": "ClarkDarrow",
+         "name": "ClarkDarrow",
+         "role_for_display": null,
+         "url": "https://genius.com/ClarkDarrow",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3dxJDcHkWRo"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Somewhere underneath\nThe floorboard\nI will sweep my garden\n\nUnderneath the cupboard\nLives a mouse\nAnd he discovered\nThere was nothing there\n\nNothin' there to discover\n\nFallin' from the sky\nThere are raindrops in my eyes\nAnd my thoughts are diggin' in the backyard\nMy roots have grown but I don't know where they are\n\nDon't know where they are\nI don't know where they are\nMy roots have grown but I don't know where they are\n\nCats and dogs and rooster calls\nTelephones and pay phone stalls\n\nThey take away\nThe lonely days\nFor now\n\nThey take away\nThe lonely days\nFor now"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 1,
+   "api_path": "/songs/833031",
+   "full_title": "Coeur d'Alene by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 833031,
+   "instrumental": false,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1510711984,
+   "path": "/The-head-and-the-heart-coeur-dalene-lyrics",
+   "pyongs_count": 1,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Coeur d\u2019Alene",
+   "title_with_featured": "Coeur d'Alene",
+   "updated_by_human_at": 1517191295,
+   "url": "https://genius.com/The-head-and-the-heart-coeur-dalene-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320599",
+   "apple_music_player_url": "https://genius.com/songs/833031/apple_music_player",
+   "description": {
+    "plain": "\u201cCoeur d'Alene\u201d is the name of a city in Idaho.  The city\u2019s name is borrowed from the name French Canadian fur trappers gave to the Native Americans who lived in the area.  The phrase translates as \u201cheart of an awl\u201d, and the explanation for this phrase\u2019s use in describing a nation of people is lost to history."
+   },
+   "embed_content": "<div id='rg_embed_link_833031' class='rg_embed_link' data-song-id='833031'>Read <a href='https://genius.com/The-head-and-the-heart-coeur-dalene-lyrics'>\u201cCoeur d'Alene\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/833031/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 569090,
+    "annotator_login": "RoadRiverRail",
+    "api_path": "/referents/5313599",
+    "classification": "unreviewed",
+    "fragment": "Coeur d\u2019Alene",
+    "id": 5313599,
+    "is_description": true,
+    "path": "/5313599/The-head-and-the-heart-coeur-dalene/Coeur-dalene",
+    "range": {
+     "content": "Coeur d'Alene"
+    },
+    "song_id": 833031,
+    "url": "https://genius.com/5313599/The-head-and-the-heart-coeur-dalene/Coeur-dalene",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/833031",
+     "client_timestamps": {
+      "updated_by_human_at": 1517191295,
+      "lyrics_updated_at": 1510711984
+     },
+     "context": "The Head And The Heart",
+     "id": 833031,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Coeur d\u2019Alene by\u00a0The\u00a0Head And The Heart",
+     "title": "Coeur d'Alene",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-coeur-dalene-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5313599",
+      "body": {
+       "plain": "\u201cCoeur d'Alene\u201d is the name of a city in Idaho.  The city\u2019s name is borrowed from the name French Canadian fur trappers gave to the Native Americans who lived in the area.  The phrase translates as \u201cheart of an awl\u201d, and the explanation for this phrase\u2019s use in describing a nation of people is lost to history."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5313599,
+      "pinned": false,
+      "share_url": "https://genius.com/5313599",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/5313599/The-head-and-the-heart-coeur-dalene/Coeur-dalene",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/569090",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/17f84d8668ce1b7ee4e6e8a2029890c1",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/17f84d8668ce1b7ee4e6e8a2029890c1",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/17f84d8668ce1b7ee4e6e8a2029890c1",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/17f84d8668ce1b7ee4e6e8a2029890c1",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/17f84d8668ce1b7ee4e6e8a2029890c1",
+         "human_readable_role_for_display": "Contributor",
+         "id": 569090,
+         "iq": 852,
+         "login": "RoadRiverRail",
+         "name": "RoadRiverRail",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/RoadRiverRail",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LJ4duKn9zZ8"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Wind-blown whispers wind naked down the corridor\nThoughts leavin' my head, they twist through yours\nWhat will become of these gestures that we made\nI've given up my Bible, you moved out of state\n\nWearily waitin' on the wastin' of his days\nA sad son's smoldering soul\nGive you three bucks for your sympathy and another for a cigarette\nThe interaction feels so cold\n\nOh the songs, people will sing for home\nAnd for the ones that have been gone for too long\nBut oh the things people will do for the ones that they love\n\nWe're only here to find the love that lingers after\nThe moment\nSo kiss me in the back room where the music plays\nI know that it's not over\n\nBut oh the songs people will sing for home\nAnd for the ones that have been gone for too long\nOh the things people will do for the ones that they love\n\nBreak down the corridors\nLa-da-da, da-da-da da da\nBreak down the corridors\nLa-da-da, da-da-da da\n\nMesses that I haven't tried to clean up in a while\n\nYou're in my soul now\nYou've gotta waste away with me\nMy mind's made up, I'm stayin' here with you\n\nThere's no use knowin'\nWhich way the wind is blowin'\nMy mind's made up, I'm doin' this, I'm doin' this with you\n\nThere's no use knowin'\nWhich way the wind is blowin'\nMy mind's made up, I'm doin' this, I'm doin' this\n\nYou're in my soul now\nYou've gotta waste away with me"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 6,
+   "api_path": "/songs/716552",
+   "full_title": "Ghosts by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 716552,
+   "instrumental": false,
+   "lyrics_owner_id": 1166351,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1572530182,
+   "path": "/The-head-and-the-heart-ghosts-lyrics",
+   "pyongs_count": 3,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 1,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 5916
+   },
+   "title": "Ghosts",
+   "title_with_featured": "Ghosts",
+   "updated_by_human_at": 1572530182,
+   "url": "https://genius.com/The-head-and-the-heart-ghosts-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320601",
+   "apple_music_player_url": "https://genius.com/songs/716552/apple_music_player",
+   "description": {
+    "plain": "\u201cGhosts\u201d is the third song on the self-titled album \u201cThe Head and The Heart\u201d.\n\n\n\nThis is the kind of song that shows the full brilliance of The Head and the Heart, without even been one of the top 5.\n\nLet\u2019s start by the Chorus: \u201cAll my friends are talking about leaving, but all my friends are sitting in their graves\u201d. This remits immediately to them being literal ghosts.\n\nYet, it opens with \u201cboys in the street are talking about leaving (\u2026) looking for places to go\u201d. Then it specifies a couple of friends, that moved carrying death or having to run away from the values they were brought up with. Don\u2019t forget:\n\n\u00abIs it any wonder why we all leave home?\nPeople say, \u201cI knew you when you were six years old\u201d\nAnd you say, \u201cBut I\u2019ve changed, I\u2019ve changed, I\u2019ve changed, I\u2019ve changed.\"\u00bb\n\nshowing the struggle one has, to be seen has you are by those that have seen you be. How they seem to believe less in you than those that meet you later, specially parents.\n\nWhile all this is going on, the song is upbeat and friendly. In the end, \u201cone day we\u2019ll all be found\u201d, and you feel warm, knowing at the same time you just been a bit roasted, but your in the same boat as those singing happily.."
+   },
+   "embed_content": "<div id='rg_embed_link_716552' class='rg_embed_link' data-song-id='716552'>Read <a href='https://genius.com/The-head-and-the-heart-ghosts-lyrics'>\u201cGhosts\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/716552/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2010-06-29",
+   "release_date_for_display": "June 29, 2010",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1166351,
+    "annotator_login": "dinokoek",
+    "api_path": "/referents/4986231",
+    "classification": "accepted",
+    "fragment": "Ghosts",
+    "id": 4986231,
+    "is_description": true,
+    "path": "/4986231/The-head-and-the-heart-ghosts/Ghosts",
+    "range": {
+     "content": "Ghosts"
+    },
+    "song_id": 716552,
+    "url": "https://genius.com/4986231/The-head-and-the-heart-ghosts/Ghosts",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/716552",
+     "client_timestamps": {
+      "updated_by_human_at": 1572530182,
+      "lyrics_updated_at": 1572530182
+     },
+     "context": "The Head And The Heart",
+     "id": 716552,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Ghosts by\u00a0The\u00a0Head And The Heart",
+     "title": "Ghosts",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-ghosts-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4986231",
+      "body": {
+       "plain": "\u201cGhosts\u201d is the third song on the self-titled album \u201cThe Head and The Heart\u201d.\n\n\n\nThis is the kind of song that shows the full brilliance of The Head and the Heart, without even been one of the top 5.\n\nLet\u2019s start by the Chorus: \u201cAll my friends are talking about leaving, but all my friends are sitting in their graves\u201d. This remits immediately to them being literal ghosts.\n\nYet, it opens with \u201cboys in the street are talking about leaving (\u2026) looking for places to go\u201d. Then it specifies a couple of friends, that moved carrying death or having to run away from the values they were brought up with. Don\u2019t forget:\n\n\u00abIs it any wonder why we all leave home?\nPeople say, \u201cI knew you when you were six years old\u201d\nAnd you say, \u201cBut I\u2019ve changed, I\u2019ve changed, I\u2019ve changed, I\u2019ve changed.\"\u00bb\n\nshowing the struggle one has, to be seen has you are by those that have seen you be. How they seem to believe less in you than those that meet you later, specially parents.\n\nWhile all this is going on, the song is upbeat and friendly. In the end, \u201cone day we\u2019ll all be found\u201d, and you feel warm, knowing at the same time you just been a bit roasted, but your in the same boat as those singing happily.."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4986231,
+      "pinned": false,
+      "share_url": "https://genius.com/4986231",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4986231/The-head-and-the-heart-ghosts/Ghosts",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.826086956521739,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1139846",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/133aac405d2df92669a2075308abfb09",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1139846,
+         "iq": 1079,
+         "login": "duarteharriscruz",
+         "name": "duarteharriscruz",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/duarteharriscruz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.17391304347826086,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1166351",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3e0fd2e168b1ae04badb817fad45fa33",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3e0fd2e168b1ae04badb817fad45fa33",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3e0fd2e168b1ae04badb817fad45fa33",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3e0fd2e168b1ae04badb817fad45fa33",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3e0fd2e168b1ae04badb817fad45fa33",
+         "human_readable_role_for_display": null,
+         "id": 1166351,
+         "iq": 264,
+         "login": "dinokoek",
+         "name": "dinokoek",
+         "role_for_display": null,
+         "url": "https://genius.com/dinokoek",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Rc5zUX78-CA"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Boys in the street are talking about leaving, they're leaving\nLooking for places to go\nBoys in the street are talking about leaving, they're leaving\nLooking for places to go\n\nAndy built his coffin down in Carolina\nTold me he was running from something\nBut I think he's just out chasing girls\n\nWhen Mary moved all of her shit to Chicago\nHer mother made sure that she left with her Bible\nBut you won't find her face on Sundays\n\n[Chorus]\nAll my friends are talking about leaving, about leaving\nBut all my friends are sitting in their graves\nAll my friends are talking about leaving, about leaving\nBut all my friends are sitting in their graves\n\nIs it any wonder why we all leave home?\nPeople say, \"I knew you when you were six years old\"\nAnd you say, \"But I've changed, I've changed, I've changed, I've changed.\"\n\nMom and Dad, if only you could see me now\nBeen here for a year and now I own this town\nCause I've changed, I've changed, I've changed, I've changed\n\n[Chorus]\nAll my friends are talking about leaving, about leaving\nBut all my friends are sitting in their graves\nAll my friends are talking about leaving, about leaving\nBut all my friends are sitting in their graves\n\nOne day we'll all be ghosts\nTripping around in someone else's home\nOne day we'll all be ghosts, ghosts, ghosts\nGhosts, ghosts, ghosts\n\nOne day we'll all be found\nNo longer lost, we're just hanging around\nOne day we'll all be found, found, found\nFound, found, found"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 6,
+   "api_path": "/songs/434877",
+   "full_title": "Down in the Valley by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 434877,
+   "instrumental": false,
+   "lyrics_owner_id": 866408,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1530853115,
+   "path": "/The-head-and-the-heart-down-in-the-valley-lyrics",
+   "pyongs_count": 8,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 15,
+    "iq_earners": 15,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 29563
+   },
+   "title": "Down in the Valley",
+   "title_with_featured": "Down in the Valley",
+   "updated_by_human_at": 1530853116,
+   "url": "https://genius.com/The-head-and-the-heart-down-in-the-valley-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320603",
+   "apple_music_player_url": "https://genius.com/songs/434877/apple_music_player",
+   "description": {
+    "plain": "by @Jenkinzz : This song captures the narrator\u2019s romantic longing for a more pastoral way of life, such as learning to master a trade. The desire comes from a primordial desire within him, as he points out by saying I am on my way back to where I started. But even though the narrator references it as the place he \u201cstarted\u201d he discloses that he actually has never been there: California, Oklahoma / All of the places I ain\u2019t ever been to but\nIn the meantime, the author is trapped in a cycle of bad habits in attempt to deal with this longing, as evidenced by his calling for mercy and reference to one drink too many. However in the end the narrator declares that this desire is relentless, forever calling him until he one day fulfills his dreams: These are the places you will find me hidin' / These are the places I will always go."
+   },
+   "embed_content": "<div id='rg_embed_link_434877' class='rg_embed_link' data-song-id='434877'>Read <a href='https://genius.com/The-head-and-the-heart-down-in-the-valley-lyrics'>\u201cDown in the Valley\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/434877/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1139846,
+    "annotator_login": "duarteharriscruz",
+    "api_path": "/referents/3627580",
+    "classification": "accepted",
+    "fragment": "Down in the Valley",
+    "id": 3627580,
+    "is_description": true,
+    "path": "/3627580/The-head-and-the-heart-down-in-the-valley/Down-in-the-valley",
+    "range": {
+     "content": "Down in the Valley"
+    },
+    "song_id": 434877,
+    "url": "https://genius.com/3627580/The-head-and-the-heart-down-in-the-valley/Down-in-the-valley",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/434877",
+     "client_timestamps": {
+      "updated_by_human_at": 1530853116,
+      "lyrics_updated_at": 1530853115
+     },
+     "context": "The Head And The Heart",
+     "id": 434877,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Down in the Valley by\u00a0The\u00a0Head And The Heart",
+     "title": "Down in the Valley",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-down-in-the-valley-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3627580",
+      "body": {
+       "plain": "by @Jenkinzz : This song captures the narrator\u2019s romantic longing for a more pastoral way of life, such as learning to master a trade. The desire comes from a primordial desire within him, as he points out by saying I am on my way back to where I started. But even though the narrator references it as the place he \u201cstarted\u201d he discloses that he actually has never been there: California, Oklahoma / All of the places I ain\u2019t ever been to but\nIn the meantime, the author is trapped in a cycle of bad habits in attempt to deal with this longing, as evidenced by his calling for mercy and reference to one drink too many. However in the end the narrator declares that this desire is relentless, forever calling him until he one day fulfills his dreams: These are the places you will find me hidin' / These are the places I will always go."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3627580,
+      "pinned": false,
+      "share_url": "https://genius.com/3627580",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3627580/The-head-and-the-heart-down-in-the-valley/Down-in-the-valley",
+      "verified": false,
+      "votes_total": 18,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1139846",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/133aac405d2df92669a2075308abfb09",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1139846,
+         "iq": 1079,
+         "login": "duarteharriscruz",
+         "name": "duarteharriscruz",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/duarteharriscruz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5Gtn8HgCAo0TUiaKKgP6us",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5Gtn8HgCAo0TUiaKKgP6us"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=G4jFyOsY54M"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "I wish I was a slave to an age-old trade\nLike ridin' around on railcars and workin' long days\n\nLord have mercy on my rough and rowdy ways\nLord have mercy on my rough and rowdy ways\n\nCall it one drink too many\nCall it pride of a man\nBut it don't make no difference if you sit or you stand\n\nCause they both end in trouble and start with a grin\nYeah they both end in trouble and start with a grin\n\nWe do it over and over and over again\nWe do it over and over and over again\n\nOh-oh, Oh-oh, Oh-oh-oh-oh, Oh-oh\n\nOh-oh, Oh-oh, Oh-oh-oh-oh, Oh-oh\n\nOh-oh, Oh-oh, Oh-oh-oh-oh, Oh-oh\n\nI know there's California, Oklahoma\nAnd all of the places I ain't ever been to but\nDown in the valley with\nWhiskey rivers\nThese are the places you will find me hidin'\nThese are the places I will always go\nThese are the places I will always go\n\nI am on my way\nI am on my way\nI am on my way back to where I started\n\nOh-oh, Oh-oh, Oh-oh-oh-oh, Oh-oh\n\nOh-oh, Oh-oh, Oh-oh-oh-oh, Oh-oh\n\nOne more for the stars and the eyes of the walls\nI saw your face, I heard you callin' out\n\nI saw your face in the crowd and you came out\nJust like the sun and the moon and the stars at night\n\nThere was a sign on the door and it reads to me\nJust like the sun and the moon and the stars at night\n\nOh-oh, Oh-oh, Oh-oh-oh-oh, Oh-oh\n\nOh-oh, Oh-oh, Oh-oh-oh-oh, Oh-oh\n\nI am on my way\nI am on my way\nI am on my way back to where I started\n\nCalifornia, Oklahoma\nAnd all of the places I ain't ever been to but\nDown in the valley with\nWhiskey rivers\nThese are the places you will find me hidin'\nThese are the places I will always go\nThese are the places I will always go\n\nSo I wish I was a slave to an age-old trade\nLord have mercy on my rough and rowdy ways"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 1,
+   "api_path": "/songs/745162",
+   "full_title": "Honey Come Home by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 745162,
+   "instrumental": false,
+   "lyrics_owner_id": 1139846,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1428542054,
+   "path": "/The-head-and-the-heart-honey-come-home-lyrics",
+   "pyongs_count": 2,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Honey Come Home",
+   "title_with_featured": "Honey Come Home",
+   "updated_by_human_at": 1517191340,
+   "url": "https://genius.com/The-head-and-the-heart-honey-come-home-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320608",
+   "apple_music_player_url": "https://genius.com/songs/745162/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_745162' class='rg_embed_link' data-song-id='745162'>Read <a href='https://genius.com/The-head-and-the-heart-honey-come-home-lyrics'>\u201cHoney Come Home\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/745162/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1139846,
+    "annotator_login": "duarteharriscruz",
+    "api_path": "/referents/5180767",
+    "classification": "needs_exegesis",
+    "fragment": "Honey Come Home",
+    "id": 5180767,
+    "is_description": true,
+    "path": "/5180767/The-head-and-the-heart-honey-come-home/Honey-come-home",
+    "range": {
+     "content": "Honey Come Home"
+    },
+    "song_id": 745162,
+    "url": "https://genius.com/5180767/The-head-and-the-heart-honey-come-home/Honey-come-home",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/745162",
+     "client_timestamps": {
+      "updated_by_human_at": 1517191340,
+      "lyrics_updated_at": 1428542054
+     },
+     "context": "The Head And The Heart",
+     "id": 745162,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Honey Come Home by\u00a0The\u00a0Head And The Heart",
+     "title": "Honey Come Home",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-honey-come-home-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5180767",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5180767,
+      "pinned": false,
+      "share_url": "https://genius.com/5180767",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5180767/The-head-and-the-heart-honey-come-home/Honey-come-home",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1139846",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/133aac405d2df92669a2075308abfb09",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/133aac405d2df92669a2075308abfb09",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1139846,
+         "iq": 1079,
+         "login": "duarteharriscruz",
+         "name": "duarteharriscruz",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/duarteharriscruz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=erDmW-3lE3Q"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "[Verse 1: Jonathan Russell]\nHoney, come home\nMy stubborn ways are behind me now\nThey're behind me now\n\n[Verse 2: Jonathan Russell]\nAnd there's nothing here\nThat will not break down\nLike you never did\n\n[Verse 3: Jonathan Russell & Charity Rose Thielen]\nThe kids say hello\nTo us in our separate homes\n\n[Verse 4: Jonathan Russell & Charity Rose Thielen]\nDarlin' please come home\nI've cleaned out the fridge\nWiped the counters off\nAnd put away my clothes\n\n[Chorus: Jonathan Russell & Charity Rose Thielen]\nDo you remember every block\nEvery minute of every walk we used to take\nWe were young, so many years ago\n\n[Verse 5: Jonathan Russell & Charity Rose Thielen]\nAnd I think of all this time\nThat we've wasted with all our fighting\nAnd I cry\nJust wanna die with the one I love\nBeside me\n\n[Verse 6: Jonathan Russell, Charity Rose Thielen & Josiah Johnson]\n\"Someday,\" you said\nSomeday you will miss my head\nLyin' next to yours\nIn our marriage bed\n\n[Chorus: Jonathan Russell & Charity Rose Thielen]\nDo you remember every block\nEvery minute of every walk we used to take\nWe were young, so many years ago\n\n[Verse 7: Jonathan Russell & Charity Rose Thielen]\nOh God, I love my vices\nBut they've taken me to places\nThat I never thought I'd go\nAnd I am ready to be home\n\n[Verse 8: Jonathan Russell, Charity Rose Thielen & Josiah Johnson]\nAnd I think of every spark\nEvery whisper in the dark\nNow it's time\nJust wanna die with the one I love\nJust wanna die with the one I love\nJust wanna die with the one I love\nJust wanna die with the one I love\nBeside me\n\n[Verse 9: Jonathan Russell, Charity Rose Thielen & Josiah Johnson]\nHoney, come home\nMy stubborn ways are behind me now"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 4,
+   "api_path": "/songs/179880",
+   "full_title": "Lost in My Mind by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 179880,
+   "instrumental": false,
+   "lyrics_owner_id": 129085,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1551895985,
+   "path": "/The-head-and-the-heart-lost-in-my-mind-lyrics",
+   "pyongs_count": 2,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 12,
+    "iq_earners": 12,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 25793
+   },
+   "title": "Lost in My Mind",
+   "title_with_featured": "Lost in My Mind",
+   "updated_by_human_at": 1551895985,
+   "url": "https://genius.com/The-head-and-the-heart-lost-in-my-mind-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320611",
+   "apple_music_player_url": "https://genius.com/songs/179880/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_179880' class='rg_embed_link' data-song-id='179880'>Read <a href='https://genius.com/The-head-and-the-heart-lost-in-my-mind-lyrics'>\u201cLost in My Mind\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/179880/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Drums, Percussion, Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/27479",
+       "header_image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "id": 27479,
+       "image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "T-Minus",
+       "url": "https://genius.com/artists/T-minus"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/1170912",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 1170912,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Steven Aguilar",
+       "url": "https://genius.com/artists/Steven-aguilar"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/680739",
+       "header_image_url": "https://images.genius.com/fb5e5c52f93b1bccba7fc6a84823dd7d.438x438x1.jpg",
+       "id": 680739,
+       "image_url": "https://images.genius.com/fb5e5c52f93b1bccba7fc6a84823dd7d.438x438x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ed Brooks",
+       "url": "https://genius.com/artists/Ed-brooks"
+      }
+     ]
+    },
+    {
+     "label": "Piano, Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/405487",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405487,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kenny Hensley",
+       "url": "https://genius.com/artists/Kenny-hensley"
+      }
+     ]
+    },
+    {
+     "label": "Bass, Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/405488",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 405488,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Zasche",
+       "url": "https://genius.com/artists/Chris-zasche"
+      }
+     ]
+    },
+    {
+     "label": "Vocals, Guitar, Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1010775",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "id": 1010775,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jonathan Russell",
+       "url": "https://genius.com/artists/Jonathan-russell"
+      },
+      {
+       "api_path": "/artists/405484",
+       "header_image_url": "https://images.genius.com/cc3a77c15726a29b25d06a4eb5db05a6.700x700x1.png",
+       "id": 405484,
+       "image_url": "https://images.genius.com/93dbfc41ffe339e4c694f83b4c0afff3.120x120x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josiah Johnson",
+       "url": "https://genius.com/artists/Josiah-johnson"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 129085,
+    "annotator_login": "FPTI",
+    "api_path": "/referents/3777717",
+    "classification": "needs_exegesis",
+    "fragment": "Lost in My Mind",
+    "id": 3777717,
+    "is_description": true,
+    "path": "/3777717/The-head-and-the-heart-lost-in-my-mind/Lost-in-my-mind",
+    "range": {
+     "content": "Lost in My Mind"
+    },
+    "song_id": 179880,
+    "url": "https://genius.com/3777717/The-head-and-the-heart-lost-in-my-mind/Lost-in-my-mind",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/179880",
+     "client_timestamps": {
+      "updated_by_human_at": 1551895985,
+      "lyrics_updated_at": 1551895985
+     },
+     "context": "The Head And The Heart",
+     "id": 179880,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Lost in My Mind by\u00a0The\u00a0Head And The Heart",
+     "title": "Lost in My Mind",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-lost-in-my-mind-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3777717",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3777717,
+      "pinned": false,
+      "share_url": "https://genius.com/3777717",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3777717/The-head-and-the-heart-lost-in-my-mind/Lost-in-my-mind",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/129085",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/0USzTJZaSFmLseAd6ctU.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/0USzTJZaSFmLseAd6ctU.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/0USzTJZaSFmLseAd6ctU.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/0USzTJZaSFmLseAd6ctU.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/0USzTJZaSFmLseAd6ctU.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 129085,
+         "iq": 1846,
+         "login": "FPTI",
+         "name": "FPTI",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/FPTI",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3gvAGvbMCRvVDDp8ZaIPV5",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
+    },
+    {
+     "attribution": "theheadandtheheart",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/theheadandtheheart/lost-in-my-mind"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=xjoA4nYBD5U"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1170912",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 1170912,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steven Aguilar",
+     "url": "https://genius.com/artists/Steven-aguilar"
+    },
+    {
+     "api_path": "/artists/984435",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 984435,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Shawn Simmons",
+     "url": "https://genius.com/artists/Shawn-simmons"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/27479",
+     "header_image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+     "id": 27479,
+     "image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T-Minus",
+     "url": "https://genius.com/artists/T-minus"
+    },
+    {
+     "api_path": "/artists/405488",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 405488,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Zasche",
+     "url": "https://genius.com/artists/Chris-zasche"
+    },
+    {
+     "api_path": "/artists/405487",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 405487,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kenny Hensley",
+     "url": "https://genius.com/artists/Kenny-hensley"
+    },
+    {
+     "api_path": "/artists/405486",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 405486,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charity Thielen",
+     "url": "https://genius.com/artists/Charity-thielen"
+    },
+    {
+     "api_path": "/artists/405485",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "id": 405485,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1605635080",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Russell",
+     "url": "https://genius.com/artists/Jon-russell"
+    },
+    {
+     "api_path": "/artists/405484",
+     "header_image_url": "https://images.genius.com/cc3a77c15726a29b25d06a4eb5db05a6.700x700x1.png",
+     "id": 405484,
+     "image_url": "https://images.genius.com/93dbfc41ffe339e4c694f83b4c0afff3.120x120x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josiah Johnson",
+     "url": "https://genius.com/artists/Josiah-johnson"
+    }
+   ],
+   "lyrics": "[Chorus]\nPut your dreams away for now\nI won't see you for some time\nI am lost in my mind\nI get lost in my mind\nMomma once told me\n\"You're already home when you feel loved,\"\nI am lost in my mind\nI get lost in my mind\n\n[Verse]\nOh my brother\nYour wisdom is older than me\nOh my brother\nDon\u2019t you worry \u2018bout me\nDon\u2019t you worry\nDon\u2019t you worry\nDon\u2019t worry about me\n\n[Pre-Chorus]\nHow\u2019s that bricklaying coming\nHow\u2019s your engine running\nIs that bridge getting built\nAre your hands getting filled\nWon\u2019t you tell me my brother\nCause there are stars up above\nWe can start moving forward\nHow\u2019s that bricklaying coming\nHow\u2019s your engine running\nIs that bridge getting built\nAre your hands getting filled\nWon\u2019t you tell me my brother\nCause there are stars up above\nWe can start moving forward\n\n[Chorus]\nLost in my mind\nLost in my mind\nOh I get lost in my mind\nLost, I get lost, I get lost in my mind\nLost in my mind\nYes I get lost in my mind\nLost, I get lost, I get lost\nOh I get lost\nOh I get"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 6,
+   "api_path": "/songs/731240",
+   "full_title": "Winter Song by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 731240,
+   "instrumental": false,
+   "lyrics_owner_id": 1168378,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1541022259,
+   "path": "/The-head-and-the-heart-winter-song-lyrics",
+   "pyongs_count": 2,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 1,
+    "unreviewed_annotations": 6,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9926
+   },
+   "title": "Winter Song",
+   "title_with_featured": "Winter Song",
+   "updated_by_human_at": 1541022259,
+   "url": "https://genius.com/The-head-and-the-heart-winter-song-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320612",
+   "apple_music_player_url": "https://genius.com/songs/731240/apple_music_player",
+   "description": {
+    "plain": "This song follows the album\u2019s theme of entering adulthood and drifting away from those closest to you. Summer ending/ Winter coming in this case is an allusion to leaving the person you love. Going back to school, moving away for a job \u2013 whatever the reason might be. We\u2019ve all had summer love and loss. The sadness experienced when you realize summer is over, school is about to begin, and you must separate from that person is intense. It consumes you. You\u2019re left only with the memories of days you spent together. That\u2019s why she\u2019ll be back to stay \u2013 the pain consumes her too. Despite the new world they have found themselves in, despite what happens them in the future, she\u2019ll return one day to be with him once more."
+   },
+   "embed_content": "<div id='rg_embed_link_731240' class='rg_embed_link' data-song-id='731240'>Read <a href='https://genius.com/The-head-and-the-heart-winter-song-lyrics'>\u201cWinter Song\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/731240/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4603655,
+    "annotator_login": "kingsad",
+    "api_path": "/referents/5095480",
+    "classification": "unreviewed",
+    "fragment": "Winter Song",
+    "id": 5095480,
+    "is_description": true,
+    "path": "/5095480/The-head-and-the-heart-winter-song/Winter-song",
+    "range": {
+     "content": "Winter Song"
+    },
+    "song_id": 731240,
+    "url": "https://genius.com/5095480/The-head-and-the-heart-winter-song/Winter-song",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/731240",
+     "client_timestamps": {
+      "updated_by_human_at": 1541022259,
+      "lyrics_updated_at": 1541022259
+     },
+     "context": "The Head And The Heart",
+     "id": 731240,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Winter Song by\u00a0The\u00a0Head And The Heart",
+     "title": "Winter Song",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-winter-song-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5095480",
+      "body": {
+       "plain": "This song follows the album\u2019s theme of entering adulthood and drifting away from those closest to you. Summer ending/ Winter coming in this case is an allusion to leaving the person you love. Going back to school, moving away for a job \u2013 whatever the reason might be. We\u2019ve all had summer love and loss. The sadness experienced when you realize summer is over, school is about to begin, and you must separate from that person is intense. It consumes you. You\u2019re left only with the memories of days you spent together. That\u2019s why she\u2019ll be back to stay \u2013 the pain consumes her too. Despite the new world they have found themselves in, despite what happens them in the future, she\u2019ll return one day to be with him once more."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5095480,
+      "pinned": false,
+      "share_url": "https://genius.com/5095480",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/5095480/The-head-and-the-heart-winter-song/Winter-song",
+      "verified": false,
+      "votes_total": 5,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4603655",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/906b4e5d187ba84d626e38b2646b8888",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/906b4e5d187ba84d626e38b2646b8888",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/906b4e5d187ba84d626e38b2646b8888",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/906b4e5d187ba84d626e38b2646b8888",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/906b4e5d187ba84d626e38b2646b8888",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4603655,
+         "iq": 318,
+         "login": "kingsad",
+         "name": "kingsad",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/kingsad",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=geCNx65eFzE"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "Tell me something, give me hope for the night\nWe don't know how we feel\nWe're just praying that we're doing this right\nThough that's not the way it seems\n\nSummer gone, now winter's on its way\nI will miss the days we had\nThe days we had\nI will miss the days we had\nThe days we had\nOh, I'll miss the days we had\n\nLoving, leaving, it's too late for this now\nSuch esteem for each has gone\nHas time driven our season away?\nCause that's the way it seems\nIn the world of the speech that is new\nI'll be back again to stay\nAgain to stay\nI'll be back again to stay\nAgain to stay\nI'll be back again to stay"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 1,
+   "api_path": "/songs/833359",
+   "full_title": "Sounds Like Hallelujah by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 833359,
+   "instrumental": false,
+   "lyrics_owner_id": 3296815,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1599562671,
+   "path": "/The-head-and-the-heart-sounds-like-hallelujah-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Sounds Like Hallelujah",
+   "title_with_featured": "Sounds Like Hallelujah",
+   "updated_by_human_at": 1599562671,
+   "url": "https://genius.com/The-head-and-the-heart-sounds-like-hallelujah-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320614",
+   "apple_music_player_url": "https://genius.com/songs/833359/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_833359' class='rg_embed_link' data-song-id='833359'>Read <a href='https://genius.com/The-head-and-the-heart-sounds-like-hallelujah-lyrics'>\u201cSounds Like Hallelujah\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/833359/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-04-19",
+   "release_date_for_display": "April 19, 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5313927",
+    "classification": "needs_exegesis",
+    "fragment": "Sounds Like Hallelujah",
+    "id": 5313927,
+    "is_description": true,
+    "path": "/5313927/The-head-and-the-heart-sounds-like-hallelujah/Sounds-like-hallelujah",
+    "range": {
+     "content": "Sounds Like Hallelujah"
+    },
+    "song_id": 833359,
+    "url": "https://genius.com/5313927/The-head-and-the-heart-sounds-like-hallelujah/Sounds-like-hallelujah",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/833359",
+     "client_timestamps": {
+      "updated_by_human_at": 1599562671,
+      "lyrics_updated_at": 1599562671
+     },
+     "context": "The Head And The Heart",
+     "id": 833359,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Sounds Like Hallelujah by\u00a0The\u00a0Head And The Heart",
+     "title": "Sounds Like Hallelujah",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-sounds-like-hallelujah-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5313927",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5313927,
+      "pinned": false,
+      "share_url": "https://genius.com/5313927",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5313927/The-head-and-the-heart-sounds-like-hallelujah/Sounds-like-hallelujah",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=eyUD9pQbuDc"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "(One, two, one two three four)\n\nI'm just waitin' on the sun\nTo close his eyes and call it a night\nSo we can put all our differences aside\n\nI'm just waitin' on the moon\nWith all the stars and all its gloom\nWe can watch it fall right back in to place\n\nSo I won't keep myself around\nJust to keep you warm\n\nWoo-oo-oo-oo\nWoo-oo-oo-oo\nOoh-oo-oo\n\nWoo-oo-oo-oo\nWoo-oo-oo ooh-oo-oo\n\nMomma don't put no gun in my hand\nI don't wanna end up like these men\nMomma don't put no gun in my hand\nI don't wanna end up like these men\n\nI'm not walkin' away\nI'm just hearin' what you're sayin'\nFor the first time\nSounds like hallelujah for the first time\nFor the first time\nSinging like hallelujah for the first time\n\nAnd I'll miss you someday\nI'll miss you someday\nI'll miss you someday\nI'll miss you someday\nI'll miss you someday\nI'll miss you\n\nI'm not walkin' away\nI'm just hearin' what you're sayin'\nFor the first time\nSounds like hallelujah for the first time\nFor the first time\nSingin' hallelujah for the first time"
+  },
+  {
+   "_type": "song",
+   "annotation_count": 0,
+   "api_path": "/songs/833528",
+   "full_title": "Heaven Go Easy on Me by\u00a0The\u00a0Head And The Heart",
+   "header_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "id": 833528,
+   "instrumental": false,
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "lyrics_updated_at": 1561656542,
+   "path": "/The-head-and-the-heart-heaven-go-easy-on-me-lyrics",
+   "pyongs_count": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Heaven Go Easy on Me",
+   "title_with_featured": "Heaven Go Easy on Me",
+   "updated_by_human_at": 1561656542,
+   "url": "https://genius.com/The-head-and-the-heart-heaven-go-easy-on-me-lyrics",
+   "primary_artist": {
+    "api_path": "/artists/23881",
+    "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+    "id": 23881,
+    "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "The Head And The Heart",
+    "url": "https://genius.com/artists/The-head-and-the-heart",
+    "iq": 231
+   },
+   "apple_music_id": "413320663",
+   "apple_music_player_url": "https://genius.com/songs/833528/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_833528' class='rg_embed_link' data-song-id='833528'>Read <a href='https://genius.com/The-head-and-the-heart-heaven-go-easy-on-me-lyrics'>\u201cHeaven Go Easy on Me\u201d by The\u00a0Head And The Heart</a> on Genius</div> <script crossorigin src='//genius.com/songs/833528/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "release_date_for_display": "April 2011",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "watch_fact_track",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_approved",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "mark_lyrics_evaluation_as_unapproved",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "moderate_lyrics_edit_proposals",
+     "preview_react_song_page"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/74462",
+    "cover_art_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+    "full_title": "The Head and the Heart by The Head And The Heart",
+    "id": 74462,
+    "name": "The Head and the Heart",
+    "url": "https://genius.com/albums/The-head-and-the-heart/The-head-and-the-heart",
+    "artist": {
+     "api_path": "/artists/23881",
+     "header_image_url": "https://images.genius.com/103153d66870837216ed63e3431cb6a3.1000x906x1.png",
+     "id": 23881,
+     "image_url": "https://images.genius.com/9885d9e71ec3e639b50e7f5db2022cbc.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Head And The Heart",
+     "url": "https://genius.com/artists/The-head-and-the-heart",
+     "iq": 231
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5314093",
+    "classification": "needs_exegesis",
+    "fragment": "Heaven Go Easy on Me",
+    "id": 5314093,
+    "is_description": true,
+    "path": "/5314093/The-head-and-the-heart-heaven-go-easy-on-me/Heaven-go-easy-on-me",
+    "range": {
+     "content": "Heaven Go Easy on Me"
+    },
+    "song_id": 833528,
+    "url": "https://genius.com/5314093/The-head-and-the-heart-heaven-go-easy-on-me/Heaven-go-easy-on-me",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/833528",
+     "client_timestamps": {
+      "updated_by_human_at": 1561656542,
+      "lyrics_updated_at": 1561656542
+     },
+     "context": "The Head And The Heart",
+     "id": 833528,
+     "image_url": "https://images.genius.com/a6d5d9345ac1094d0aebf95fc50ce93b.1000x1000x1.jpg",
+     "link_title": "Heaven Go Easy on Me by\u00a0The\u00a0Head And The Heart",
+     "title": "Heaven Go Easy on Me",
+     "type": "Song",
+     "url": "https://genius.com/The-head-and-the-heart-heaven-go-easy-on-me-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5314093",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5314093,
+      "pinned": false,
+      "share_url": "https://genius.com/5314093",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5314093/The-head-and-the-heart-heaven-go-easy-on-me/Heaven-go-easy-on-me",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "featured_artists": [],
+   "lyrics_marked_complete_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LukDY7wUKCo"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "lyrics": "God, what are we doin'?\nCan't live this way forever\nGotta make ourselves some money\nOr be thrown out with the bathwater\n\nMy sister and my brother\nLook to me for answers\nAnd our fathers and our mothers\nWanna know they raised us right\nWanna know they raised us right\n\nIs it that the good life is the simple one\n(Sittin' in the lawn watchin' leaves go by)\nReadin' good books and playin' songs\n\nWatchin' the wind blow through your front yard\nDon't follow your head\nFollow your heart\n\nAnd while you're sittin' all alone in your room on your bed\nAnd your windows are open but you won't go out, no\nAh, heaven go easy on me\n\nAnd while you're sittin' all alone in your room on your bed\nAnd your windows are open but you won't go out, no\nAh, heaven go easy on me\n\nIt's damn good to've met you, I hope that you stay\nWe're well on our way\nWe're well on our way\nWe're well on our way\nWe're well on our way\nWe're well on our way\nWe're well on our way\nWe're well on our way\nWe're well on our way\nWe're well on our way\nWe're well on our way\n(All these things are rushing by)\n(All these things are rushing by)\n(All these things are rushing by)\n(All these things are rushing by)\n(All these things are rushing by)\n(continued in background)\n\nAll things must end, darlin'\nAll things must end, darlin'\nAll things must end, darlin'\nAll things must end, darlin'\n(All these things are rushing by)\n(All these things are rushing by)\n\nAh, heaven go easy on me"
+  }
+ ]
+}
